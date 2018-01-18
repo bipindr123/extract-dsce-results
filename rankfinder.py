@@ -13,6 +13,6 @@ for i in f.readlines():
 
 count=0
 for i in rt:
-    if i>8.9:
+    if i>8.72:
         count+=1
 print(count)
